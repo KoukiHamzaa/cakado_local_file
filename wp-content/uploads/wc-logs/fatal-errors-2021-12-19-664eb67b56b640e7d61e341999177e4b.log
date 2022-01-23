@@ -1,0 +1,30 @@
+2021-12-19T10:43:43+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/stu854/public_html/wp-content/themes/woodmart/inc/integrations/woocommerce/template-tags.php:1176
+Stack trace:
+#0 /home/stu854/public_html/wp-content/themes/woodmart/header-elements/cart.php(62): woodmart_cart_count()
+#1 /home/stu854/public_html/wp-content/themes/woodmart/inc/builder/elements/abstract/Element.php(59): require('/home/stu854/pu...')
+#2 /home/stu854/public_html/wp-content/themes/woodmart/inc/builder/Frontend.php(141): WOODMART_HB_Element->render(Array, '')
+#3 /home/stu854/public_html/wp-content/themes/woodmart/inc/builder/Frontend.php(130): WOODMART_HB_Frontend->_render_element(Array)
+#4 /home/stu854/public_html/wp-content/themes/woodmart/inc/builder/Frontend.php(130): WOODMART_HB_Frontend->_render_element(Array)
+#5 /home/stu854/public_html/wp-content/themes/woodmart/inc/builder/Frontend.php(130): WOODMART_HB_Frontend->_render_element(Array)
+#6 /home/stu854/public_html/wp-content/themes/woodmart/inc/builder/Fron dans /home/stu854/public_html/wp-content/themes/woodmart/inc/integrations/woocommerce/template-tags.php à la ligne 1176
+
+2021-12-19T14:32:15+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/stu854/public_html/wp-content/themes/woodmart/inc/integrations/woocommerce/template-tags.php:1176
+Stack trace:
+#0 /home/stu854/public_html/wp-content/themes/woodmart/header-elements/cart.php(62): woodmart_cart_count()
+#1 /home/stu854/public_html/wp-content/themes/woodmart/inc/builder/elements/abstract/Element.php(59): require('/home/stu854/pu...')
+#2 /home/stu854/public_html/wp-content/themes/woodmart/inc/builder/Frontend.php(141): WOODMART_HB_Element->render(Array, '')
+#3 /home/stu854/public_html/wp-content/themes/woodmart/inc/builder/Frontend.php(130): WOODMART_HB_Frontend->_render_element(Array)
+#4 /home/stu854/public_html/wp-content/themes/woodmart/inc/builder/Frontend.php(130): WOODMART_HB_Frontend->_render_element(Array)
+#5 /home/stu854/public_html/wp-content/themes/woodmart/inc/builder/Frontend.php(130): WOODMART_HB_Frontend->_render_element(Array)
+#6 /home/stu854/public_html/wp-content/themes/woodmart/inc/builder/Fron dans /home/stu854/public_html/wp-content/themes/woodmart/inc/integrations/woocommerce/template-tags.php à la ligne 1176
+
+2021-12-19T18:02:33+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/stu854/public_html/wp-content/themes/woodmart/inc/integrations/woocommerce/template-tags.php:1176
+Stack trace:
+#0 /home/stu854/public_html/wp-content/themes/woodmart/header-elements/cart.php(62): woodmart_cart_count()
+#1 /home/stu854/public_html/wp-content/themes/woodmart/inc/builder/elements/abstract/Element.php(59): require('/home/stu854/pu...')
+#2 /home/stu854/public_html/wp-content/themes/woodmart/inc/builder/Frontend.php(141): WOODMART_HB_Element->render(Array, '')
+#3 /home/stu854/public_html/wp-content/themes/woodmart/inc/builder/Frontend.php(130): WOODMART_HB_Frontend->_render_element(Array)
+#4 /home/stu854/public_html/wp-content/themes/woodmart/inc/builder/Frontend.php(130): WOODMART_HB_Frontend->_render_element(Array)
+#5 /home/stu854/public_html/wp-content/themes/woodmart/inc/builder/Frontend.php(130): WOODMART_HB_Frontend->_render_element(Array)
+#6 /home/stu854/public_html/wp-content/themes/woodmart/inc/builder/Fron dans /home/stu854/public_html/wp-content/themes/woodmart/inc/integrations/woocommerce/template-tags.php à la ligne 1176
+
